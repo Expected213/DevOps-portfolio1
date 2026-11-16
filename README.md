@@ -26,7 +26,7 @@ Practical DevOps Learning Project
 
 Development: Loclal PC
 
-Production: Ubuntu VPS
+Production: Ubuntu 24.04 VPS
 
 ## Project status
 
